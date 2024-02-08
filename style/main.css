@@ -74,3 +74,11 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+#home .panel {
+  padding: 0;
+}
+
+#home #carousel {
+  z-index: 0;
+}
